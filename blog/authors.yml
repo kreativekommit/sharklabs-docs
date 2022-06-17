@@ -1,8 +1,8 @@
-endi:
+sharky:
   name: Sharky
   title: Maintainer of Docusaurus
   url: https://github.com/Sharky83
-  image_url: https://github.com/endiliey.png
+  image_url: /static/img/profilepic.jpeg
 
 endi:
   name: Endi
