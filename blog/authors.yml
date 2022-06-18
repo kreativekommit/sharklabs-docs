@@ -4,6 +4,15 @@ sharky:
   url: https://github.com/Sharky83
   image_url: /static/img/profilepic.jpeg
 
+
+george:
+  name: George
+  title: Blogger & NFT fan
+  url: https://sharklabs.io
+  image_url: /static/img/profilepic.jpeg
+
+
+
 endi:
   name: Endi
   title: Maintainer of Docusaurus
