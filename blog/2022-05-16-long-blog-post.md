@@ -1,7 +1,7 @@
 ---
 slug: long-blog-post
 title: Pitch Your Project 
-authors: endi
+authors: george
 tags: [web3, discord]
 ---
 

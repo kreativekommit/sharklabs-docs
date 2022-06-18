@@ -2,31 +2,11 @@ sharky:
   name: Sharky
   title: Maintainer of Docusaurus
   url: https://github.com/Sharky83
-  image_url: /static/img/profilepic.jpeg
+  image_url: https://avatars.githubusercontent.com/u/16520442?v=4
 
 
 george:
   name: George
   title: Blogger & NFT fan
   url: https://sharklabs.io
-  image_url: /static/img/profilepic.jpeg
-
-
-
-endi:
-  name: Endi
-  title: Maintainer of Docusaurus
-  url: https://github.com/Sharky83
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  image_url: https://avatars.githubusercontent.com/u/16520442?v=4
