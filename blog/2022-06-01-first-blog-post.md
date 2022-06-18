@@ -4,8 +4,8 @@ title: First Blog Post
 authors:
   name: Sharky
   title: Shark Boss
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  url: https://www.sharklabs.io
+  image_url: static/img/profilepic.jpeg
 tags: [Founders Pass, NFTs]
 ---
 
@@ -21,6 +21,6 @@ The Shark Labs Founders Pass will be the key NFT for the community, and will all
 While we are all about promoting Shark Labs, our concept is about encouraging diversity throughout the NFT community, primarily because we are massive fans of the concept. The Shark Labs community is all-inclusive; if NFTs win, we all win, and it’s a constant theme that has resonated amongst holders.  The wonderful thing about the NFT space is that it is constantly changing and evolving; no one knows what it will look like in a few months, let alone a few years. It is an exciting time to be involved.
 
 #### So what’s next for Sharks?
-We love NFTs and gaming - and this will certainly be our focus while the wider development team continue to discuss the subject of the web3 development and incorporating  this into the ‘real-world’ web applications and how this could function - and be a part of everyday life; is in conversation right now. 
+We love NFTs and gaming - and this will certainly be our focus while the wider development team continue to discuss the subject of the web3 development and incorporating this into the ‘real-world’ web applications and how this could function - and be a part of everyday life; is in conversation right now. 
 
 Essentially, there are unlimited possibilities for the future, with how advertisers, the development team and our community interact with each other to create the future for Shark Labs and its Developments.
