@@ -5,7 +5,7 @@ authors:
   name: Sharky
   title: Shark Boss
   url: https://www.sharklabs.io
-  image_url: static/img/profilepic.jpeg
+  image_url: https://avatars.githubusercontent.com/u/16520442?v=4
 tags: [Founders Pass, NFTs]
 ---
 

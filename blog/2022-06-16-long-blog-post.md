@@ -1,11 +1,11 @@
 ---
-slug: long-blog-post
+slug: pitch-your-project
 title: Pitch Your Project 
 authors: george
 tags: [web3, discord]
 ---
 
-Sharks Frenzy
+#### Shark Frenzy
 We’re really excited about oue journey and web3 & digital ownership with our community — it’s why we started with Sharks Labsions — to explore the possibilities.
 
 So, we’ve decided we will be hosting a “pitch your project” event in our Discord. New and upcoming projects will have the opportunity to pitch their ideas to our community in one of our Discord stages, live!! 
