@@ -2,8 +2,8 @@
 slug: first-blog-post
 title: First Blog Post 
 authors:
-  name: Sharky
-  title: Shark Boss
+  name: sharky
+  title: maintainer of docs
   url: https://www.sharklabs.io
   image_url: https://avatars.githubusercontent.com/u/16520442?v=4
 tags: [Founders Pass, NFTs]
