@@ -6,6 +6,6 @@ tags: [facebook, hello, docusaurus]
 ---
 
 
-### Welcome to Shark Labs Blog
+### Welcome to the Shark Labs Blog
 
-Here we will post regular updates on our Shark Labs projects!
+Here we will post regular updates of our projects!
