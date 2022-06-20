@@ -1,11 +1,7 @@
 ---
 slug: dicord-competition-post
-title: Discord Competition
-authors:
-  name: Sharky
-  title: Shark Boss
-  url: https://github.com/Sharky83
-  image_url: https://avatars.githubusercontent.com/u/16520442?v=4
+title: discord competition
+authors: sharky
 tags: [Founders Pass, NFTs, Competition, Discord]
 ---
 
